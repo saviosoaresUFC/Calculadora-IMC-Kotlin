@@ -1,4 +1,3 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21202120)
 # 📱 Mini-App 1: Calculadora de IMC
 
 ## 🎯 Objetivo
@@ -23,8 +22,7 @@ Praticar os fundamentos do **Jetpack Compose** e o uso de **layouts simples (Row
 - Interface construída apenas com **Composable Functions**.
 - Boas práticas de nomes e organização do código.
 
-## 🚚 Entrega
-1. Adicione screenshots ou um vídeo do aplicativo funcionando na past **entrega**
-2. Preencha o <a href="https://forms.gle/ytpnh6PRjFaFxcBQ7" target="_blank">formulário contando como foi sua experiência durante o desenvolvimento</a>
-3. Faça o push para o branch criado ao aceitar o assignment
-
+<img width="1500" height="863" alt="home" src="https://github.com/user-attachments/assets/53413bbb-bc4e-43dc-8f35-cad83ff5967e" />
+<img width="1500" height="863" alt="error_empty" src="https://github.com/user-attachments/assets/3e63f372-fc4a-49da-ab29-4d9d9b17e6c6" />
+<img width="1500" height="863" alt="typing" src="https://github.com/user-attachments/assets/b6e4c0b4-bb90-4d65-a506-4972ee0c0d42" />
+<img width="1500" height="863" alt="result" src="https://github.com/user-attachments/assets/db9a7335-d212-4201-8e32-2aca93f43397" />
